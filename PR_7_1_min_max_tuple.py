@@ -1,0 +1,5 @@
+tup = (5, 10, 3, 8, 15, 2)
+min_num = min(tup)
+max_num = max(tup)
+print("Minimum number:", min_num)
+print("Maximum number:", max_num)
